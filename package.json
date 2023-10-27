@@ -1,0 +1,9 @@
+{
+  "name": "interceptor",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@kaipat/eslint-config-basic": "^0.0.6",
+    "@types/chrome": "^0.0.248",
+    "eslint": "^8.52.0"
+  }
+}

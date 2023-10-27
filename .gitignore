@@ -1,0 +1,13 @@
+.idea
+node_modules
+_metadata
+
+files/*
+!files/example.js
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

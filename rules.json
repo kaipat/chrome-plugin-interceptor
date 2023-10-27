@@ -1,0 +1,11 @@
+[
+  {
+    "id" : 1,
+    "priority": 1,
+    "action" : { "type": "redirect", "redirect": { "extensionPath": "/files/example.js" } },
+    "condition" : {
+      "urlFilter" : "assets/index-f2fcf5b1.js",
+      "resourceTypes" : ["script"]
+    }
+  }
+]
